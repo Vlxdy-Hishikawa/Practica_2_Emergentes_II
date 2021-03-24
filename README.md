@@ -1,4 +1,4 @@
-**** PRACTICA Nº 2 ****
+# **** PRACTICA Nº 2 ****
 
 Practica de Servlets, JSP y JavaBeans
 
